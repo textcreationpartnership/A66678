@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vindiciæ medio-Saxonicæ, or, Tithes totally routed by Magna charta in a reply to an answer of Middlesex letter and petition, in the latter end of a tract, called, A treatise of tubes, wherein the invalidity of the said treatisers arguments are fully manifested, and the said letter and petition clearly vindicated from error and mistake / by Aug. Wingfield ...</title>
+            <author>Wingfield, Augustus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66678</idno>
+            <idno type="STC">Wing W3029</idno>
+            <idno type="STC">ESTC R11813</idno>
+            <idno type="EEBO-CITATION">12930612</idno>
+            <idno type="OCLC">ocm 12930612</idno>
+            <idno type="VID">95652</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66678)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95652)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 993:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vindiciæ medio-Saxonicæ, or, Tithes totally routed by Magna charta in a reply to an answer of Middlesex letter and petition, in the latter end of a tract, called, A treatise of tubes, wherein the invalidity of the said treatisers arguments are fully manifested, and the said letter and petition clearly vindicated from error and mistake / by Aug. Wingfield ...</title>
+                  <author>Wingfield, Augustus.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F.L. for William Larnar ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Magna Carta.</term>
+               <term>Tithes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95652:1"/>
+            <p>
+               <hi>Vindiciae Medio-Saxonicae,</hi> OR, Tithes totally Routed, BY MAGNA CHARTA IN A Reply to an Anſwer of <hi>Middleſex</hi> Letter and Petition, in the latter end of a Tract, called, <hi>A Treatiſe of Tithes.</hi>
+            </p>
+            <p>WHEREIN The Invalidity of the ſaid Trea<g ref="char:EOLhyphen"/>tiſers Arguments are fully manife<g ref="char:EOLhyphen"/>ſted, and the ſaid Letter and Petition clearly vindicated from Error and Miſtake.</p>
+            <p>BY AUG. WINGFIELD, A Member of this preſent PARLIAMENT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>F. L.</hi> for <hi>William Larnar,</hi> at the <hi>Black<g ref="char:EOLhyphen"/>more</hi> near <hi>Fleet-Bridge,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95652:2"/>
+            <pb n="1" facs="tcp:95652:2"/>
+            <head>Tithes totally routed, by <hi>Magna Charta.</hi>
+            </head>
+            <p>HAving peruſed a Treatiſe of Tithes penn'd by way of Anſwer to its Opponents, by one, as it is con<g ref="char:EOLhyphen"/>ceived, of the long Robe; we thought fit to give timely admonition, that though he pretend to be a wel wiſher to Religion and Propriety, yet when he ſpeaketh fair, men believe him not; for there are, it is to be feared, ſeven Abominations in his heart, who though his <hi>Sophiſticated Arguments</hi> be covered with de<g ref="char:EOLhyphen"/>ceit, yet ſhall his wickedneſſe be ſhewed before the whole Con<g ref="char:EOLhyphen"/>gregation. <hi>Prov.</hi> 26.25, 26.</p>
+            <p>In his Epiſtle to the Reader, he diſcovers both his ſpirit and his pride, cenſuring his Antagoniſts, as clamorous malitious ig<g ref="char:EOLhyphen"/>norants, though perhaps in the judgement of unbiaſed Mode<g ref="char:EOLhyphen"/>rators, more learned, peaceable, and more Evangelically ſpi<g ref="char:EOLhyphen"/>rited than himſelf. But fearing leſt his great <hi>Diana</hi> Tithes, the Nurſery of contention and ſtrife, ſhould in theſe days of Refor<g ref="char:EOLhyphen"/>mation, and reſtauration of publique Freedom and liberty, like <hi>Dagon</hi> before the <hi>Ark,</hi> fall to the ground and come to nought; he hath therefore, out of his worldly wiſdom, judged it very op<g ref="char:EOLhyphen"/>portune (both in reference to himſelf and alſo to his Clients the Tith-taking Prieſthood and Impropriator) in this extremity of time, to force into his Aid a Catalogue of Acts of Parliament, though to little purpoſe, ſince few of them before the Statutes of <hi>H.</hi> 8. intimate ſo much as a right, much leſſe command the pay<g ref="char:EOLhyphen"/>ment of Parochial Tithes to Prieſts or others, as if this Reſpon<g ref="char:EOLhyphen"/>dent would make us all beleeve, that <hi>Ubi nomen Decim<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ibi ar<g ref="char:EOLhyphen"/>gumentum Decimand<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> that whereſoever in any Statute the word
+<pb n="2" facs="tcp:95652:3"/>Tith is found, there is an argument for Tithing: though by his leave in ſome of them by him quoted there is not ſo much as the name<note n="*" place="margin">
+                  <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> Char. c. 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Ma<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. c. 5.25. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>: But although he and his Tith-taking Brethren have a long time, like <hi>Simeon</hi> and <hi>E<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vi,</hi> confederated to<g ref="char:EOLhyphen"/>gether, not only to make us ignorants, but ſtill to keep ſo, by perſwading of us and our fore fathers, That Tithes were firſt due by Divine Law, then by Canon Law, and now by Statute Law: yet are we and the good people of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> reſolved to be no longer deluded by them with their Para<g ref="char:EOLhyphen"/>logiſms, and deceitfull reaſonings.</p>
+            <p>And therefore that we may no longer digreſſe by way of preface, we ſhall now come to reply, and to examine thoſe two grand objections, which the Author of the ſaid Treatiſe raiſeth againſt the <hi>Middleſex</hi> Letter and Petition in the Expoſitory o<g ref="char:EOLhyphen"/>pening of thoſe two Statutes of <hi>Magna Charta. ch.</hi> 29. and 1. <hi>R.</hi> 2. <hi>ch.</hi> 14. where this Reſpondent ſaith <hi>pag.</hi> 13. That for the Penner of the ſaid Letter and Petition to make the People believe, that the payment of Tithes is againſt <hi>Magna Charta,</hi> is ſuch an expoſi<g ref="char:EOLhyphen"/>tion as was never made upon that Statute, and therefore to re<g ref="char:EOLhyphen"/>ctifie this Errour (as he calls it) he hath laboured, though in vain, to overthrow the ſaid expoſition, and thoſe invincible ar<g ref="char:EOLhyphen"/>guments built upon it, and to ſet up his own contrary interpre<g ref="char:EOLhyphen"/>tation and falſe aſſertion, <hi>(viz.)</hi> That Tithes and the pay<g ref="char:EOLhyphen"/>ment thereof by the people, were confirmed by <hi>Magna Charta, ch.</hi> 1. under the Notion of Church rights.</p>
+            <p>And firſt for proof thereof he ſaith, <hi>pag.</hi> 14. That by the Com<g ref="char:EOLhyphen"/>mon Law of this Land, at the confirmation of <hi>Magna Charta,</hi> Eccleſiaſtical perſons had remedy to recover their Tithes in the Spiritual Court, and then concludes, that the Law gives no re<g ref="char:EOLhyphen"/>medy but where there is a right: which aſſertion is very untrue. For <hi>Cook</hi> upon Tithes faith, That by the Common Law Lands are undecimable, and if undecimable, then certainly by that Law there can be no Church right to Tithes, neither to be re<g ref="char:EOLhyphen"/>covered by virtue thereof in the Spiritual, or Popes Court, Since the people of <hi>England</hi> were not bound in Law by his Can<g ref="char:EOLhyphen"/>nons. Neither is <hi>Cook</hi> ſingle in his opinion, For <hi>Selden fo.</hi> 291 ſaith, That Arbitrary diſpoſition of Tithes uſed by the Laity, as well <hi>de jure,</hi> of right, (as the poſitive Law then received and
+<pb n="3" facs="tcp:95652:3"/>practiz'd was) as <hi>de facto,</hi> of deed and practiſe, is that which <hi>Wick<g ref="char:EOLhyphen"/>leff</hi> remembred in his Complaint to the King and Parliament un<g ref="char:EOLhyphen"/>der <hi>R.</hi> 2. The ſubſtance whereof in brief, is, That the proud and pompous Prieſts did conſtrain the poor People of <hi>England</hi> (<hi>viz.</hi> by Popiſh Canons) to pay their Tithes unto them, whereas within a few years before, they paid their Tithes and Offrings at their own free will and pleaſure. Which is alſo atteſted by <hi>Lud<g ref="char:EOLhyphen"/>low</hi> a Judge of Aſſize in <hi>E.</hi> 3. who ſaith, That in antient time a man might give his Tith to what Church he would; which is true ſayes Judge <hi>Brook</hi> in Abridging the caſe. <hi>Selden fol.</hi> 252.</p>
+            <p>And the ſaid Author further ſaith, <hi>fo.</hi> 290. That under <hi>Inno<g ref="char:EOLhyphen"/>cent</hi> the 3d. it was uſuall in fact for Laymen by the practice of the Law at that time both Common and Canon, to convey the right of their Tithes, as Rent-charges or the like, to what Church or Monaſtery they pleaſed, and ſuch Conveyances were clearly good. And whereas the Author of the ſaid Treatiſe, <hi>p.</hi> 14. quo<g ref="char:EOLhyphen"/>teth Mr. <hi>Selden</hi> for his Authority of Parochial right, he is clearly miſtaken, ſince Mr. <hi>Seldens</hi> judgement in the ſame place immedi<g ref="char:EOLhyphen"/>ately following is cleerly to the contrary, and that which is here alleged as the Treatiſers main Argument, is nothing but the opi<g ref="char:EOLhyphen"/>nion of the Canoniſts recited by Mr. <hi>Selden,</hi> and by him in the ſame and following pages fully confuted, <hi>pag.</hi> 144, 146.</p>
+            <p>Moreover <hi>Magna Charta</hi> is, by Act of Parliament made in 25 <hi>E.</hi> 1. called, the Confirmation of the Charters, adjuged and declared to be the Common Law of the Land; which if true, as it is moſt true, then Tithes being not ſo much as named, much leſs confirmed by <hi>Magna Charta,</hi> are not due by the Common Law, (as the ſaid Reſpondent weakly ſuppoſeth) and ſo not at all un<g ref="char:EOLhyphen"/>der Eccleſiaſtical cogniſance.</p>
+            <p>But he objecteth and ſaith, That Tithes are contained in theſe words, <hi>The Churches Rights, Mag. Char. cap.</hi> 1. for further ſa<g ref="char:EOLhyphen"/>tisfaction whereof, ſee <hi>Cooks</hi> expoſition upon the very ſame words, where he ſaith, that Eccleſiaſtical perſons ſhall enjoy their lawfull juriſdictions, and other their rights (but not one word of Tithes) without diminution, and that no new Rights were given unto them hereby, but ſuch as they had before confirmed: Now if no new Rights were given, then not Tithes, ſince the Author of the ſaid Treatiſe confeſſeth <hi>p.</hi> 14. that the Common Right of Tithes due to the Rector of the Pariſh, is but from the time of K.
+<pb n="4" facs="tcp:95652:4"/>
+               <hi>John,</hi> and then, as M. <hi>Selden</hi> (whom he quoteth) <hi>p.</hi> 146. decla<g ref="char:EOLhyphen"/>reth, not ſo much as in opinion eſtabliſhed, whereby it is evident, not onely by <hi>Selden</hi> and his own confeſſion, but alſo in the judg<g ref="char:EOLhyphen"/>ment of <hi>Cook,</hi> that at the confirmation of <hi>Magna Charta,</hi> Tithes were not at all comprehended in the Rights of the Church.</p>
+            <p>Which will yet more fully appear if we conſult Mr. <hi>Seldens</hi> book of Tithes, and the Roll of <hi>Winton.</hi> In the firſt whereof <hi>pag.</hi> 137. It is delivered for a clear truth, that there never was any Canon of any General Council as yet found, that purpoſely com<g ref="char:EOLhyphen"/>manded payment of Tithes, nor any that expreſly ſuppoſed them a duty of Common right, before the Council of <hi>Lateran,</hi> under Pope <hi>Innocent</hi> the 3d. 1615: So that at the Council of <hi>Lateran,</hi> which was in the latter end of K. <hi>John,</hi> and but 12 years or there<g ref="char:EOLhyphen"/>abouts before the confirmation of <hi>Magna Charta</hi> by <hi>H.</hi> the 3d. Tithes were not due by common right, that is by Common Law, and ſo conſequently no rights of the Church. And if not then due by Common Law, then certainly not at the confirming of <hi>Magna Charta,</hi> ſince in the judgment of all, both Canoniſts and Common Lawyers, 12 years is not a competency of time, either for cuſtom, or preſcription, the one allowing 40 years at leaſt, the other time out of mind.</p>
+            <p>And yet to proceed, this Reſpondent doth further acknow<g ref="char:EOLhyphen"/>ledge, <hi>p.</hi> 14. that there was no Parochial Right of Tithes till af<g ref="char:EOLhyphen"/>ter the Council of <hi>Lateran</hi> aforeſaid, 1615. and that after the Decretal Epiſtle of <hi>Innocent</hi> the 3d ſent to the Arch-Biſhop of <hi>Canterbury</hi> in the year aforeſaid, the right of Tithes was allowed (but you muſt know by whom, <hi>(viz.)</hi> the Pope and his Clergy, not the People) and ſo became <hi>Lex Terrae,</hi> a Law of the Land, which are likewiſe the words and judgement of <hi>Cook:</hi> Now of what force and validity, a Right of Tithes, grounded upon a Ca<g ref="char:EOLhyphen"/>non of the Pope, and diametrically repugnant to <hi>Magna Charta</hi> can be, let all men judge; ſince <hi>Cook</hi> their Oracle hath declared in his Chapter of Tithes, that all Canons which are againſt the Common Law, or Cuſtom of the Land, are of no force.</p>
+            <p>Now as to the Roll of <hi>Winton,</hi> called by ſome <hi>Doomſday Book,</hi> which was a ſurvey of all the Lands &amp; Revenues both of Clergy &amp; Laity, exactly taken by Commiſſ. in every County throughout the Nation, and returned into the Exchequer about the latter end of the <hi>Conquerours</hi> Reign, It is there Recorded in particular what
+<pb n="5" facs="tcp:95652:4"/>the Revenues and dues of every Presbyter and Church were, but yet notwithſtanding very rarely, if at all, are any Tithes found among the Church Revenues. So that hence it is moſt cleer, Firſt, that in <hi>William</hi> the <hi>Conquerors</hi> time, Tiths were no Revenus nor rights of the Church; nor yet Secondly, in <hi>H.</hi> 2. his time, fee the Letter and Petition, <hi>p.</hi> 5. And laſtly, by the Authors own confeſſion they became due onely but from the latter end of K. <hi>Johns</hi> Reign, and that grounded meerly upon a Popiſh Canon, contrary to <hi>Magna Charta,</hi> which is acknowledged by the Lear<g ref="char:EOLhyphen"/>ned, to be the Common Law of <hi>England,</hi> both before and after the Conqueſt.</p>
+            <p>The ſecond and laſt objection which the Author of the ſaid Treatiſe maketh, is upon our expoſition of the Statute of 1 <hi>R.</hi> 2. <hi>cap.</hi> 14. which wee ſhall here make good to be moſt genuine and true, notwithſtanding his falſe calumniation; and that his An<g ref="char:EOLhyphen"/>ti-expoſition is moſt abſurd and falſe, and ſuch as had not Cu<g ref="char:EOLhyphen"/>ſtom wrought another Nature in him, to ſpeak and write untruly, could never have fell from him. Now the queſtion between us is, whether the <hi>Averment</hi> there ſpoken of be Lay <hi>Averment,</hi> and ſo to be made by the Plaintiff, according to his expoſition, or Church <hi>Averment,</hi> and ſo to be made by the Defendant, accor<g ref="char:EOLhyphen"/>ding to our expoſition: whether of which is moſt true, we ſhall leave to every one to judge, by opening unto you the Na<g ref="char:EOLhyphen"/>ture of <hi>Averment</hi> out of the judgment of the Learned, and by holding forth ſuch reaſons as ſhall in brief be produced.</p>
+            <p>And firſt <hi>Cowells Interpreter</hi> ſaith, That <hi>Averment</hi> ſignifieth (according to the Author of Terms of the Law) an offer of the Defendant to make good or to juſtifie an exception pleaded in a<g ref="char:EOLhyphen"/>batement or bar of the Plaintiffs Act. And Sir <hi>Hen. Smith</hi> in his book of Law <hi>fo.</hi> 359 alſo ſaith, That <hi>Averments</hi> muſt be offered to be proved true in Barrs. 1. Anſwers, Replications, Rejoinders, &amp;c. but not in Counts and Declarations. And of the ſame judgement is Sir <hi>Edw. Cook,</hi> in his firſt part of Inſtitutes <hi>fo,</hi> 362. So that it is evident, <hi>Averments</hi> are properly to be made by De<g ref="char:EOLhyphen"/>fendants in their anſwears, or in after pleadings, and not by Plaintiffs in their Declarations: unleſſe in ſome few particular caſes, of which this is none, as is evident, not only by the Grammatical, and Logical Conſtruction of the ſaid Statute, but
+<pb n="6" facs="tcp:95652:5" rendition="simple:additions"/>even in the judgement of Learned <hi>Raſtal,</hi> a Iuſtice of the Com<g ref="char:EOLhyphen"/>mon-pleas, in Q. <hi>Maries</hi> days; who to out the queſtion out of doubt hath ſet it down in the margent of his Abridge<g ref="char:EOLhyphen"/>ment of the Statutes, to be Church <hi>Averment,</hi> which we con<g ref="char:EOLhyphen"/>ceive to be a final determination of the queſtion.</p>
+            <p>And as <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Ordinance of <hi>Nov.</hi> 1644. for the payment of Tithes, we <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>y conceive it to be the judgement of all the lear<g ref="char:EOLhyphen"/>ned, that it is of no longer validity than during Parliamentary Seſſion which is now diſſolv'd upon ſure grounds of Piety, Pub<g ref="char:EOLhyphen"/>lique <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>dome, right reaſon, and honeſtie: and that not<g ref="char:EOLhyphen"/>without the Generall conſent of the major part, either prece<g ref="char:EOLhyphen"/>dent, or ſubſequent, of the Supreme Authority, the People.</p>
+            <p>Now by what hath been ſaid it will eaſily appear who doth moſt abuſe and miſlead the People, and whether expoſition of <hi>Magna Charta</hi> and the other Statute of <hi>R.</hi> 2. is moſt true. That of the Letter and Petition, back'd with right reaſon, and the Authorities of great Lawyers and learned Iudges, or that of the Author of the Treatiſe, being a fancy of his own brain, and rai<g ref="char:EOLhyphen"/>ſed out of implicite Terms, which he that believs, had need of of a Popiſh and implicite faith.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
